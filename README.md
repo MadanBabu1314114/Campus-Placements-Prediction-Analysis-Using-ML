@@ -40,4 +40,4 @@ I extend my gratitude to Dr. Dhimant Ganatara, Professor at Jain University, for
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Campus-Placements-Prediction.git
+   git clone  https://github.com/MadanBabu1314114/Campus-Placements-Prediction-Analysis-Using-ML.git
