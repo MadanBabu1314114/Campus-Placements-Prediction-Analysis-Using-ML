@@ -16,6 +16,9 @@ I extend my gratitude to Dr. Dhimant Ganatara, Professor at Jain University, for
 
 - **Accuracy:** 86%
 - **Models Used:**
+
+![image](https://github.com/MadanBabu1314114/Campus-Placements-Prediction-Analysis-Using-ML/assets/123216438/da7826e3-8429-4b55-86a5-e7bc6b807778)
+
   - GradientBoostingClassifier
   - BaggingClassifier
   - AdaBoostClassifier
@@ -24,6 +27,13 @@ I extend my gratitude to Dr. Dhimant Ganatara, Professor at Jain University, for
   - PassiveAggressiveClassifier
   - SVC (Support Vector Classifier)
   - KNeighborsClassifier
+
+
+##EDA
+![image](https://github.com/MadanBabu1314114/Campus-Placements-Prediction-Analysis-Using-ML/assets/123216438/baebd821-1c63-4e66-8c08-59f2bcacb319)
+
+ 
+ 
 
 ## How to Use
 
