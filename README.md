@@ -29,7 +29,7 @@ I extend my gratitude to Dr. Dhimant Ganatara, Professor at Jain University, for
   - KNeighborsClassifier
 
 
-##EDA
+## EDA
 ![image](https://github.com/MadanBabu1314114/Campus-Placements-Prediction-Analysis-Using-ML/assets/123216438/baebd821-1c63-4e66-8c08-59f2bcacb319)
 
  
